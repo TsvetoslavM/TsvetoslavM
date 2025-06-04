@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TsvetoslavM  
+- 👀 I’m interested in embedded systems, smart devices, full-stack development, and AI  
+- 🌱 I’m currently learning React Native, FastAPI, and advanced C++ for embedded applications  
+- 💞️ I’m looking to collaborate on smart wearables, hackathon projects, and open-source tools  
+- 📫 How to reach me: zwetoslaw@gmail.com  
+- ⚡ Fun fact: I’m building smart glasses that reflect a screen into your eye — like sci-fi but real!
